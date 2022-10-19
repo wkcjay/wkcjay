@@ -4,6 +4,15 @@
 - 🎓 Bachelor Degree in Mechanical Engineering (NTU)/Diploma in Aeronautical & Aerospace Technology(NYP)
 - 🌱 I’m currently learning GoLang
 
+## I'm planning to
+- become a full-stack software engineer
+- travel to Europe to see the Aurora Borealis 🌈
+
+## I like to
+- play badminton 🏸
+- play the piano 🎹
+- eat 🥘
+
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
