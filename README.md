@@ -11,7 +11,7 @@
 ## I like to
 - play badminton 🏸
 - play the piano 🎹
-- eat 🥘
+- go food hunting 🥘
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
