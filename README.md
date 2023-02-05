@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GoLang
 
 ## I'm planning to
-- become a full-stack software engineer
+- become a backend software engineer
 - travel to Europe to see the Aurora Borealis 🌈
 
 ## I like to
