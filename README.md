@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Morty-informational?style=flat&logo=Morty&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Datadog-informational?style=flat&logo=Datadog&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/API-RESTful-informational?style=flat&logo=REST&logoColor=white&color=6aa6f8)
