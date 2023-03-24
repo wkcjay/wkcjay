@@ -18,8 +18,17 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-NOSQL-informational?style=flat&logo=NOSQL&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-AmazonDynamoDB-informational?style=flat&logo=AmazonDynamoDB&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Morty-informational?style=flat&logo=Morty&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Datadog-informational?style=flat&logo=Datadog&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/API-RESTful-informational?style=flat&logo=REST&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Method-TDD-informational?style=flat&logo=TDD&logoColor=white&color=6aa6f8)
 
 ## Highlight Projects
 <a href="https://github.com/wkcjay/DSAI-Aviation.git">
