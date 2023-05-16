@@ -1,6 +1,6 @@
 # Hello/你好 👋
 
-- 👨‍💻 Software Engineer Trainee
+- 👨‍💻 Budding Software Developer
 - 🎓 Bachelor Degree in Mechanical Engineering (NTU)/Diploma in Aeronautical & Aerospace Technology(NYP)
 - 🌱 I’m currently learning GoLang
 
