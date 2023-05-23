@@ -1,6 +1,6 @@
 # Hello/你好 👋
 
-- 👨‍💻 Budding Software Developer
+- 👨‍💻 Backend Software Developer
 - 🎓 Bachelor Degree in Mechanical Engineering (NTU)/Diploma in Aeronautical & Aerospace Technology(NYP)
 - 🌱 I’m currently learning GoLang
 
