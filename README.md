@@ -38,3 +38,6 @@
 <a href="https://github.com/wkcjay/Dental-Appointment.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wkcjay&repo=Dental-Appointment&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dental-Appointment" />
 </a>
+<a href="https://github.com/vitorio-p/pandaREmart.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorio-p&repo=pandaREmart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="pandaREmart" />
+</a>
