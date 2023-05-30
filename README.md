@@ -2,7 +2,7 @@
 
 - 👨‍💻 Backend Software Developer
 - 🎓 Bachelor Degree in Mechanical Engineering (NTU)/Diploma in Aeronautical & Aerospace Technology(NYP)
-- 🌱 I’m currently learning GoLang
+- 🌱 https://wongkhiachen.dev
 
 ## I'm planning to
 - become a backend software engineer
